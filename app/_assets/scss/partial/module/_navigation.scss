@@ -1,0 +1,19 @@
+
+.navigation {
+  background: #f6f6f6;
+}
+
+.navigation-list {
+  @extend %horizontal-list;
+  text-align: center;
+
+  li {
+    font-size: .75em;
+    line-height: 2.6667;
+    text-transform: uppercase;
+
+    & + li {
+      margin-left: 2em;
+    }
+  }
+}

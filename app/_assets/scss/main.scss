@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+// Variables
+$base-font-family: helvetica, arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     32px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #f08a05;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  "partial/mixin",
+  "partial/placeholder",
+  "partial/base",
+  "partial/layout",
+  "partial/module/header",
+  "partial/module/navigation",
+  "partial/module/footer",
+  "partial/module/article-header",
+  "partial/module/post-article-header",
+  "partial/syntax-highlighting"
+;

@@ -1,0 +1,21 @@
+
+// Clearfix
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+// Horizontal list
+%horizontal-list {
+  @extend %clearfix;
+  list-style: none;
+  margin: 0;
+
+  li {
+    display: inline-block;
+  }
+}

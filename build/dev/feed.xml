@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Gayngle</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://thegayngle.com/</link>
+    <atom:link href="http://thegayngle.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Nov 2014 23:11:55 -0500</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2014 23:11:55 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Developing A Gulp Edge</title>
+        <description>&lt;p&gt;Gulp is all the rage in the web development world these days. Of course someone had to rush to be first cash in on the Gulp popularity and quickly publish a book on Gulp hence ‘Developing A Gulp Edge’ was born. I have been tracking Gulp since about December 2013. I have tried to use it on several projects with only limited success.&lt;/p&gt;
+
+&lt;p&gt;Fast-forward to November 20, 2014 when I decided to start reading this book. The books first few chapters explain what Gulp is and what it is not. (Side Note: I did notice the fact that Safari in particular mobile Safari was ignored in the Javascript libraries section as it probably more than any other browser made developers reconsider how they are developing apps and websites for mobile and other devices.)&lt;/p&gt;
+
+&lt;p&gt;In any case, our authors describe the many benefits of using Gulp in comparison to other build systems. We learn about the benefits of build systems and about the 4 basic gulp commands.&lt;/p&gt;
+
+&lt;p&gt;Then we move on to actually getting npm, node, and gulp with the pizza-app example. This was a wonderful from scratch example. It really helps to seal in the benefit of reading a development book to have a well thought out tutorial that developers can bang on or play with. I did notice that when installing nvm a step was left out. (You need to run source ~/.nvm/nvm.sh right after executing the curl command to get this working.) Our authors guide us through some of the everyday tasks we need to run over and over again that get in the way of quickly developing sites/apps/modules etc… This had me hooked. I was building plug-ins and testing out things I could introduce at work. I stayed up until I had finished reading the entire book.&lt;/p&gt;
+
+&lt;p&gt;This book was a very pleasurable and productive read to be quite frank. I can use this in my workflow immediately. ‘Developing a Gulp Edge’ and the Kyle Simpson ‘You Don’t Know Javascript’ series made me appreciate development books and the authors of these books. They are more thorough than reading a random blog post on the subject many times. Developers are already working on their own projects and in many cases writing a book is a deviation from their other projects.&lt;/p&gt;
+
+&lt;p&gt;The authors could probably improve this book by updating some of the examples in this book. In particular, I would update the cache busting with gulp part of the book. I have not yet been able to find anything to cache bust a js file. The examples they provided with cache busting worked with everything but Javascript files. I would’ve also liked to see something about working with sprites as well.&lt;/p&gt;
+
+&lt;p&gt;Lastly, we are walked through creating our own gulp plugin that does not actually do anything. It is good practice for those who intend to create a plugin.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://shop.oreilly.com/product/9781939902146.do&quot;&gt;Check out ‘Developing A Gulp Edge’&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://thegayngle.com/book-review/2014/11/21/developing-a-gulp-edge.html</link>
+        <guid isPermaLink="true">http://thegayngle.com/book-review/2014/11/21/developing-a-gulp-edge.html</guid>
+        
+        <category>Web</category>
+        
+        <category>Development,</category>
+        
+        <category>Javascript</category>
+        
+        
+        <category>book-review</category>
+        
+      </item>
+    
+      <item>
+        <title>You Don&#39;t Know JS: this and Object prototypes</title>
+        <description>&lt;p&gt;‘this and Object prototypes’ is the second book in the ‘You Don&#39;t know Javascript’ book series. I would argue that this book probably could’ve served as the first book becuase this book challenges developers to actually re-consider the need of and use of the classical design patterns and assessing the benefits and drawbacks of it. In other words, it challenges developers to actually be engineers instead of just developers.&lt;/p&gt;
+
+&lt;p&gt;It is my opinion that I and other developers have been lazy in that we just accept classical software design as the way software should be developed without really thinking about what that actually means and the benefits and drawbacks of classical design patterns. Rather than fully embracing the benefit of behavior based delegation-oriented design in Javascript, developers have typically shoe-horned in the classical design patterns into Javascript.&lt;/p&gt;
+
+&lt;p&gt;If you were even mildly disappointed in the first book in this series ‘Scope and Closures’, you will pleased to know that this book is head and shoulders better than the first book in this series and really is a shining example of what a good programming book should do is challenge you to think about software design in ways you had not previously really given much thought to.&lt;/p&gt;
+
+&lt;p&gt;Gone is the somewhat pretentious tone of the previous book. Instead the author takes a different tone as he aims to teach developers think about the implications of classical and behavioral design patterns. It is as if Kyle got better at writing a book that people can read and learn from. There are plenty of code examples along with detailed explanations of what Javascript is actually doing behind the scenes. This may actually just be a good computer science book to have in general. I am very happy with what I have learned from this book.&lt;/p&gt;
+
+&lt;p&gt;The last three chapters that compare classical vs behavior based design patterns in javascript really is worth the price of this book. This book is very well written and I think the last three chapters of this book has uses as a computer science topic in general and should not be limited to just a discussion about Javascript hence the 5 out of 5 stars I a giving it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://shop.oreilly.com/product/0636920033738.do&quot;&gt;Check out ‘You Don’t Know JS: this and Object prototypes’&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://thegayngle.com/book-review/2014/09/01/this-and-object-prototypes.html</link>
+        <guid isPermaLink="true">http://thegayngle.com/book-review/2014/09/01/this-and-object-prototypes.html</guid>
+        
+        <category>Web</category>
+        
+        <category>Development,</category>
+        
+        <category>Javascript</category>
+        
+        
+        <category>book-review</category>
+        
+      </item>
+    
+      <item>
+        <title>You Don&#39;t Know JS: Scope and Closures</title>
+        <description>&lt;p&gt;While this book attempts to demystify javascript scope and closures for javascript developers, it makes the topic mildly less mysterious. After reading this book, I think the explanation of both topics feels unfinished. I may go and re-read this book again. It is like The Good Parts without the immediately good even if controversial ideas in it.&lt;/p&gt;
+
+&lt;p&gt;The author rather than try to fit in a full discussion on scope and closures elects to put additional information into an appendix which takes the reader away from very relevant and related questions that would likely further the readers understanding of the subject matter without having to skip all over the place. Usually, I tend to think of an appendix as off topic, related and useful information rather than a way to artificially keep the chapters short.&lt;/p&gt;
+
+&lt;p&gt;LHS/RHS scope explanation feels out of place being located in the first few chapters of this book. (Note: On some level I understand the logic of it being here.) Somehow I feel like its a complex theoretical topic being thrown at you right away before you have a solid context. The author probably could be more successful with explaining LHS/RHS scope by starting with day to day scoping problems developers have with their code now. Instead it comes off as too theoretical too fast and if you are not already well versed on compiler theory you can get lost right at the beginning of the book.&lt;/p&gt;
+
+&lt;p&gt;The question becomes are we trying to explain scope to developers who do not understand scope or are we trying to sound smart to developers who probably already understand scope.&lt;/p&gt;
+
+&lt;p&gt;The other thing I think is lacking with this book’s explanation of scope is this and passing scope around and executing functions in a scope outside of their own. Giving a full and in depth explanation if this is immediately useful in solving problems developers have everyday.&lt;/p&gt;
+
+&lt;p&gt;Lastly, the information on closures really only lasts for a chapter and then its really just a definition and showing off some common javascript patterns that closures rather than a full explanation of closures.&lt;/p&gt;
+
+&lt;p&gt;Ive read other reviews claiming the length is a plus but I feel like I would have liked those 20 pages they shaved off this book back. My review comes off as negative despite my 3.75 star review because I strongly feel like it could have been a 5 star book. There is great explanations in this book minus other great explanations that were left out of this book.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://shop.oreilly.com/product/0636920026327.do&quot;&gt;Check out ‘You Don’t Know JS: Scope and Closures’&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://thegayngle.com/book-review/2014/08/11/scope-and-closures.html</link>
+        <guid isPermaLink="true">http://thegayngle.com/book-review/2014/08/11/scope-and-closures.html</guid>
+        
+        <category>Web</category>
+        
+        <category>Development,</category>
+        
+        <category>Javascript</category>
+        
+        
+        <category>book-review</category>
+        
+      </item>
+    
+      <item>
+        <title>The Principles of Object-Oriented Javascript</title>
+        <description>&lt;p&gt;While there are many many posts on Javascript and Object-Oriented Javascript all over the internet, I have never found a book that felt as concise and as thorough as this book is. I think many developers even experienced Java developers looking to get a better understanding of Javascript can really use this book to take their Javascript to the next level.&lt;/p&gt;
+
+&lt;p&gt;I would probably say that this book really serves as somewhat of a foundation for what will come in the future as it relates to Javascript.&lt;/p&gt;
+
+&lt;p&gt;Every chapter I felt like I was learning something I had not realized when working with Javascript before. Understanding primative types and reference types in Javascript is critical to understand how objects behave in Javascript and in other programming languages. The author starts the book out by explaining the difference between the two before getting into the details of functions and objects. You will learn about proper methods of detecting properties, instantiating built in types, call and apply.&lt;/p&gt;
+
+&lt;p&gt;I really enjoyed the fact that our author goes throught the trouble of explaining to us exactly what is going on behind the scenes. This gives developers more control over the code and how they are writing their code. He goes and explains this and the bind method.&lt;/p&gt;
+
+&lt;p&gt;Nicholas explains ECMA Script 5’s built in Object functions by sprinkling in examples rather than going all dictionary style on us as many developer books typically like to do. People read books so they actually understand what they are doing better than they would if they were reading straight up documentation dictionary style. Explanation through example also gives us a tiny preview of how we might solve problems right now.&lt;/p&gt;
+
+&lt;p&gt;Chapter 5…. OH GAWD!… Chapter 5 and well really the whole book should be required reading for developers. I was hesitating on wether or not to give this book a 5 out of 5 stars. I went ahead and decided to give this book the full 5 because I don’t have a recommendation as to how I might improve this book.&lt;/p&gt;
+
+&lt;p&gt;For all the praise Douglas Crockford’s book ‘Javascript: The Good Parts’ gets, this book should be getting at least as much praise.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://shop.oreilly.com/product/9781593275402.do&quot;&gt;Chech out ‘The Principles of Object-Oriented Javascript’&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://thegayngle.com/book-review/2014/08/05/the-principles-of-object-oriented-javascript.html</link>
+        <guid isPermaLink="true">http://thegayngle.com/book-review/2014/08/05/the-principles-of-object-oriented-javascript.html</guid>
+        
+        <category>Web</category>
+        
+        <category>Development,</category>
+        
+        <category>Javascript</category>
+        
+        
+        <category>book-review</category>
+        
+      </item>
+    
+      <item>
+        <title>Getting Started with Grunt: The JavaScript Task Runner</title>
+        <description>&lt;p&gt;This book is among the best introductions to Grunt: The Javascript Task Runner and Nodejs platform I have seen to date. I was so pleased with this book that I recommended it to the other developers on my team immediately upon finishing this book.&lt;/p&gt;
+
+&lt;p&gt;The author immediately starts us out with creating a simple Grunt task. He explains the benefits of using a task runner at all in the development process. We learn why Grunt is an excellent choice for task runner in real world use cases such as code minification, code linting and code deployments.&lt;/p&gt;
+
+&lt;p&gt;Next we are guided through a more thorough set up of Grunt and the NodeJS platform. We learn about basic configuration and directory structure. The author does not stop there though. He walks us through installing grunt packages and plug-ins as well as building our own custom Grunt tastsk.&lt;/p&gt;
+
+&lt;p&gt;By the end of this book the author had me convinced that Grunt is the tool my team can leaverage at work to get control of our unweildy code base and get some structure and consistency around our deployment process.&lt;/p&gt;
+
+&lt;p&gt;Often times I find that beginner books are almost too beginner for the audience they are trying to target. This book really hits the sweetspot in terms of getting beginners set up quickly and easily without alienating more senior developers or going into the gory details of Grunt before developers have any real context or understanding around the problem Grunt attempts to solve.&lt;/p&gt;
+
+&lt;p&gt;One way I would improve this book is move the last 15-20 pages on development tools to an appendix of some sort. However, I would not include it as a part of a chapter titled Advanced Grunt.&lt;/p&gt;
+
+&lt;p&gt;Full disclosure: I was asked to do this review literally the day after I finished it. However, I’ve read this book and thoroughly enjoyed every minute of it.&lt;/p&gt;
+
+&lt;p&gt;I’m stunned that such a potentially boring topic could make for an amazing book.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bit.ly/1pvgcnH&quot;&gt;Check out ‘Getting Started with Grunt: The JavaScript Task Runner’&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://thegayngle.com/book-review/2014/07/31/getting-started-with-grunt.html</link>
+        <guid isPermaLink="true">http://thegayngle.com/book-review/2014/07/31/getting-started-with-grunt.html</guid>
+        
+        <category>Web</category>
+        
+        <category>Development,</category>
+        
+        <category>Javascript,</category>
+        
+        <category>Nodejs</category>
+        
+        <category>Build</category>
+        
+        <category>Tools</category>
+        
+        
+        <category>book-review</category>
+        
+      </item>
+    
+  </channel>
+</rss>

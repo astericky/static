@@ -1,0 +1,25 @@
+.footer {
+  @extend %clearfix;
+  padding: .5em 1em .25em;
+  background: #c0c0c0;
+
+  .copyright {
+    float: left;
+  }
+}
+
+.social-media {
+  @extend %horizontal-list;
+  float: right;
+
+  li {
+
+    & + li {
+      margin-left: 1em;
+    }
+  }
+
+  a {
+    color: #fff;
+  }
+}

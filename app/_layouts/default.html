@@ -1,0 +1,31 @@
+{% include top.html %}
+
+    {% include header.html %}
+
+    {% include navigation.html %}
+
+    <main class="main container">
+
+        <section class="content">
+        {% for post in site.posts limit: 10 %}
+            <article class="article">
+                <header class="article-header">
+                    <span class="article-category">{{ post.category-name }}</span>
+                    <h3 class="article-heading"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    <span class="article-meta">
+                        <span class="article-date">{{ post.date | date: "%d %b %Y" }}</span>
+                        <span class="review-rating">Rating: {{ post.rating }}</span>
+                    </span>
+                </header>
+                <p class="article-excerpt">{{ post.excerpt }}</p>
+            </article>
+        {% endfor %}
+        </section>
+
+        {% include sidebar.html %}
+
+    </main>
+
+    {% include footer.html %}
+
+{% include bottom.html %}
