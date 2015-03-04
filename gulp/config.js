@@ -124,7 +124,7 @@ module.exports = {
             }
         },
         js: {
-            src:  devAssets + 'js/*.js',
+            src:  devAssets + '/js/*.js',
             dest: prodAssets + '/js/',
             options: {}
         },

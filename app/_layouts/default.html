@@ -17,7 +17,7 @@
                         <span class="review-rating">Rating: {{ post.rating }}</span>
                     </span>
                 </header>
-                <p class="article-excerpt">{{ post.excerpt }}</p>
+                <p class="article-excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
             </article>
         {% endfor %}
         </section>
