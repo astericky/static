@@ -186,5 +186,8 @@ module.exports = {
             '!' + prod + '/feed.xml'
         ],
         dest: prod
+    },
+    ghPages: {
+        dest: prod
     }
 };
